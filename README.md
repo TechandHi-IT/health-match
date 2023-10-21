@@ -1,2 +1,4 @@
-# health-match
-The idea is to create an app that helps young people choose the right life partner by providing information about their potential partner's health. It's like having a tool that lets you know if your partner might have certain health conditions or risks that could affect your future together. 
+**Problem Statement** - Many young people enter into marriages without having adequate information about their partner's health, which can lead to unexpected health issues and challenges in the future. There is a need for a solution that empowers individuals to make informed decisions about their choice of life partner by providing access to relevant medical information.
+By providing individuals with health-related information about their potential life partners, this project contributes to promoting good health and well-being. Informed decisions can lead to healthier families and reduce the risk of the transmission of certain hereditary health conditions
+
+**Solution** - The idea is to create an app that helps young people choose the right life partner by providing information about their potential partner's health. It's like having a tool that lets you know if your partner might have certain health conditions or risks that could affect your future together. This way, you can make more informed decisions about your relationship and overall well-being.
