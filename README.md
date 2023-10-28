@@ -1,4 +1,4 @@
-<h1>**HealthPartner - Make Informed Decisions About Your Life Partner's Health**</h1>
+<h1 style="color: blue;">HealthPartner - Make Informed Decisions About Your Life Partner's Health</h1>
 
 ![Screenshot (437)](https://github.com/TechandHi-IT/health-match/assets/77229868/b1396d48-1e4c-4430-b2b4-9518ab771796)
 
